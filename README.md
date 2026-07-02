@@ -140,8 +140,8 @@ Turning raw data into meaningful insights through analytics and visualization.
     alt="GitHub"/>
 </a>
 </p>
-----
-# 🚀 Featured Projects
+
+## 🚀 Featured Projects
 
 ### 📈 Retail Sales & Profit Analysis Dashboard
 🔹 Built an interactive sales dashboard using Python, SQL, and Excel to analyze sales performance, profit trends, and KPIs.
